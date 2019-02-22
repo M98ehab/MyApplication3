@@ -121,7 +121,93 @@
         <item>Fourth year</item>
     </string-array>
 
+    <string-array name="position">
+        <item>Choose your Position....</item>
+        <item>Member</item>
+        <item>Head Assistant</item>
+        <item>Ex Head Assistant</item>
+        <item>Head</item>
+        <item>Ex Head</item>
+        <item>Officer</item>
+        <item>Ex Officer</item>
+        <item>Vice-officer</item>
+        <item>President</item>
+        <item>Ex President</item>
+        <item>Vice-president</item>
+        <item>Ex Vice-president</item>
+        <item>Programs Coordinator</item>
+        <item>Trainer</item>
+        <item>Ex Trainer</item>
+        <item>Editor-In-Chief</item>
+        <item>Ex Editor-In-Chief</item>
+        <item>Secretary Deputy</item>
+        <item>Ex Secretary Deputy</item>
+    </string-array>
+
+    <string-array name="coordination">
+        <item>Choose your coordination...</item>
+        <item>Marketing Coordination</item>
+        <item>Executive Coordination</item>
+        <item>HR Coordination</item>
+        <item>Academy Coordination</item>
+        <item>Secretary Coordination</item>
+        <item>Treasury Coordination</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="marketing">
+        <item>Choose your committee...</item>
+        <item>Information Technology Web(IT Web)</item>
+        <item>Information Technology Android(IT Android)</item>
+        <item>Social Media</item>
+        <item>Media</item>
+    </string-array>
+
+    <string-array name="executive">
+        <item>Choose your committee...</item>
+        <item>Direct publicity</item>
+        <item>Operations Committee(OC)</item>
+    </string-array>
+
+    <string-array name="HR">
+        <item>Choose your committee...</item>
+        <item>Human Resources(HR)</item>
+    </string-array>
+
+    <string-array name="academy">
+        <item>Choose your committee...</item>
+        <item>Academy El Gamaa</item>
+        <item>Academy Petrol</item>
+    </string-array>
+
+    <string-array name="secretary">
+        <item>Choose your committee...</item>
+        <item>Magazine</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="treasury">
+        <item>Choose your committee...</item>
+        <item>Public Relations(PR)</item>
+    </string-array>
+
+    <string-array name="coordinationsec">
+        <item>Choose your coordination...</item>
+        <item>Secretary Coordination</item>
+    </string-array>
+
+    <string-array name="other_ccordination">
+        <item>Choose your committee...</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="empty">
+        <item></item>
+    </string-array>
+
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_educational_info">EducationalInfo</string>
+    <string name="title_activity_chapter_info">ChapterInfo</string>
 </resources>
