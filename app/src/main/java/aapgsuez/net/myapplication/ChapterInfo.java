@@ -18,7 +18,7 @@ import com.squareup.picasso.Picasso;
 public class ChapterInfo extends AppCompatActivity {
     Button next3;
     EditText ID;
-    String id = "", position_str, coordination_str = "", committee_str = "", name, email, username, password, faculty, department, year;
+    String id = "", position_str, coordination_str = "", committee_str = "";
     private ImageView reg3;
 
     @Override
@@ -375,14 +375,6 @@ public class ChapterInfo extends AppCompatActivity {
         next3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
-                Bundle bundle = getIntent().getExtras();
-                name = bundle.getString("name");
-                email = bundle.getString("email");
-                username = bundle.getString("username");
-                password = bundle.getString("password");
-                faculty = bundle.getString("faculty");
-                department = bundle.getString("department");
-                year = bundle.getString("year");
 
                 id = ID.getText().toString().trim();
 
